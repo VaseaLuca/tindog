@@ -160,6 +160,7 @@ p {
 
 .social-icon:hover {
   color: #8f8f8f;
+  transition: 0.5s;
 }
 
 @media (max-width: 1028px) {
